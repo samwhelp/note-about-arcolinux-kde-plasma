@@ -38,6 +38,15 @@
 
 
 
+## 佈景主題
+
+| 佈景主題 |
+| -------- |
+| [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-arcolinux-kde-plasma/read/subject/grub.html) |
+
+
+
+
 ## 相關筆記
 
 | Link | GitHub |
