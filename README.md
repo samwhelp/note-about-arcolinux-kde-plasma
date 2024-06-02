@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [按鍵綁定](#按鍵綁定)
+* [如何](#如何)
 * [相關筆記](#相關筆記)
 
 
@@ -43,6 +44,16 @@
 | 佈景主題 |
 | -------- |
 | [設定採用「GURB 佈景主題」](https://samwhelp.github.io/note-about-arcolinux-kde-plasma/read/subject/grub.html) |
+
+
+
+
+## 如何
+
+| [如何](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/howto.html) |
+| ------- |
+| [設定「Mouse Button Modifier」](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super_L」開啟「Main Menu」](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/read/howto/disable-keybind-open-main-menu.html) |
 
 
 
