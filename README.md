@@ -9,6 +9,9 @@
 | [Arcolinux 探索筆記](https://samwhelp.github.io/note-about-arcolinux/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux) |
 
 
+> [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-arcolinux-kde-plasma/read/cheatsheet/keybind.html)
+
+
 
 
 ## 主題
@@ -91,7 +94,7 @@
 | [Archlinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-archlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-kde-plasma) |
 | [EndeavourOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-endeavouros-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-endeavouros-kde-plasma) |
 | [CachyOS Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-cachyos-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-cachyos-kde-plasma) |
-| [Manjaro Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-manjaro-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-kde-plasma) |
+| [arcolinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-arcolinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-arcolinux-kde-plasma) |
 | [Debian Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-debian-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-debian-kde-plasma) |
 | [Fedora Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-fedora-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-fedora-kde-plasma) |
 
